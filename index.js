@@ -21,5 +21,5 @@ function deepestChild() {
   for (let i = 0; i < grandNode.length; i++) {
     var solution = grandNode.querySelector('div[i]').innerHTML;
   return solution;
-  
+  }
 }
