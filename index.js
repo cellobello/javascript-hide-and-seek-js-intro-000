@@ -14,5 +14,8 @@ function increaseRankBy(n) {
 }
 
 function deepestChild() {
-  document.getElementById('grand-node')
+  var grandNode = document.getElementById('grand-node');
+  for (let i = 0; i < grandNote.length; i++) {
+    var solution = 
+  }
 }
